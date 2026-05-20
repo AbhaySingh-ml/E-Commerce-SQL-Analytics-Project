@@ -5,7 +5,7 @@
 This project analyzes e-commerce transactional data using SQL to extract meaningful business insights.
 The focus is on revenue trends, customer behavior, product performance, and customer retention.
 
-abhaysinghm
+abhaysingh
 ---
 
 ## Dataset Overview
